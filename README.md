@@ -1,5 +1,4 @@
 # Desktop-Assistant
-Using Python
 
 Install these Dependencies:
 
