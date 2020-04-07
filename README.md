@@ -3,7 +3,7 @@ Using Python
 
 Install these Dependencies:
 
-speechrecognition
+speechrecognition<br>
 pyttsx3
 pyaudio
 playsound
