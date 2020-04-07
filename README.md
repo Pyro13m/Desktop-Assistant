@@ -8,10 +8,11 @@ pyttsx3
 pyaudio
 playsound
 
-*NOTE : If you face an error while installing pyaudio try running:
+``NOTE : If you face an error while installing pyaudio try running:``
 
-*pip install pipwin 
-*pipwin install pyaudio
+pip install pipwin 
+
+pipwin install pyaudio
 
 *This should resolve the issue.
 
